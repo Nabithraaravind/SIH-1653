@@ -23,9 +23,44 @@ Ministry of Defence
 
 6.Interview Analytics Dashboard: Provide interviewers with a real-time analytics dashboard showcasing candidate scores, answer analysis, and comparative rankings, helping panel members make data-driven hiring decisions.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Proposed Solution / Architecture Diagram
 
 ![AI-Powered Web-Based Selector-Applicant Simulation Software](https://github.com/user-attachments/assets/460ba155-5eb5-4181-94fe-71e5fbe49e7b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Use Cases
 ![Registration   Profile Creation](https://github.com/user-attachments/assets/bf80b244-43ea-46a9-becf-f8e9e18a131a)
